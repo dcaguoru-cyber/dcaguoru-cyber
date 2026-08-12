@@ -104,8 +104,6 @@ For opportunities or consultancy, email: [dcaguoru@gmail.com](mailto:dcaguoru@gm
 ---
 
 ## GitHub stats & widgets
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dcaguoru-cyber&layout=compact)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dcaguoru-cyber&show_icons=true)  
 [![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dcaguoru-cyber&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ---
